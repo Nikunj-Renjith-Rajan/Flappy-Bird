@@ -1,6 +1,26 @@
-## Getting Started
+# 🐦 Flappy Bird Clone in Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple **Flappy Bird** clone made using **Java AWT & Swing**. This mini-project recreates the core gameplay of the popular mobile game using basic Java GUI components.
+
+---
+
+## 🎮 Gameplay Overview
+
+- Press **Spacebar** to flap the bird upwards.
+- Avoid hitting the top or bottom pipes.
+- Score increases each time the bird passes through a pair of pipes.
+- Game ends if the bird collides with a pipe or falls off the screen.
+
+---
+
+## 🛠️ Technologies Used
+
+- Java (JDK 8 or above)
+- Java AWT and Swing libraries
+- Basic Object-Oriented Programming (OOP)
+- Custom `JPanel`, `JFrame`, `Timer`, `KeyListener` logic
+
+---
 
 ## Folder Structure
 
